@@ -554,7 +554,7 @@ These are high-level frameworks that make it easier to build MCP servers or clie
 
 * **[EasyMCP](https://github.com/zcaceres/easy-mcp/)** (TypeScript)
 - **[FastAPI to MCP auto generator](https://github.com/tadata-org/fastapi_mcp)** – A zero-configuration tool for automatically exposing FastAPI endpoints as MCP tools by **[Tadata](https://tadata.com/)**
-* **[FastMCP](https://github.com/punkpeye/fastmcp)** (TypeScript)
+* **[MCP Plexus](https://github.com/super-i-tech/mcp_plexus)** A secure, **multi-tenant** MCP backend framework enhancing FastMCP with robust isolation, OAuth integration with built-in flow management, and persistent user-specific access.
 * **[Foxy Contexts](https://github.com/strowk/foxy-contexts)** – A library to build MCP servers in Golang by **[strowk](https://github.com/strowk)**
 * **[Higress MCP Server Hosting](https://github.com/alibaba/higress/tree/main/plugins/wasm-go/mcp-servers)** - A solution for hosting MCP Servers by extending the API Gateway (based on Envoy) with wasm plugins.
 * **[MCP-Framework](https://mcp-framework.com)** Build MCP servers with elegance and speed in Typescript. Comes with a CLI to create your project with `mcp create app`. Get started with your first server in under 5 minutes by **[Alex Andru](https://github.com/QuantGeekDev)**
